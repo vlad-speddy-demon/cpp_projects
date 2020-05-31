@@ -1,0 +1,21 @@
+#include <stdio.h>
+#include <string.h>
+
+
+
+
+
+int main()
+
+{
+    string[] stringArray = new string[6];
+   char str[20] = "killlllll:";
+   char str2[20] = "44747474";
+   int k = 8;
+   string strr = "Пример строки";
+
+   printf("%s" ,str);
+   printf("%d" ,k);
+   printf("%s" ,str2);
+
+}
